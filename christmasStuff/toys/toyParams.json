@@ -1,0 +1,60 @@
+{
+    "color": [
+        {
+            "name": "желтый",
+            "color": "#FFD700"
+        },
+        {
+            "name": "белый",
+            "color": "#F8F8FF"
+        },
+        {
+            "name": "красный",
+            "color": "#B22222"
+        },
+        {
+            "name": "синий",
+            "color": "#1E90FF"
+        },
+        {
+            "name": "зелёный",
+            "color": "#008000"
+        }
+    ],
+    "size": [
+        {
+            "name": "малый",
+            "pictureName": "ball"
+        },
+        {
+            "name": "средний",
+            "pictureName": "ball"
+        },
+        {
+            "name": "большой",
+            "pictureName": "ball"
+        }
+    ],
+    "shape": [
+        {
+            "name": "шар",
+            "pictureName": "ball"
+        },
+        {
+            "name": "фигурка",
+            "pictureName": "toy"
+        },
+        {
+            "name": "колокольчик",
+            "pictureName": "bell"
+        },
+        {
+            "name": "шишка",
+            "pictureName": "cone"
+        },
+        {
+            "name": "снежинка",
+            "pictureName": "snowflake"
+        }
+    ]
+}
